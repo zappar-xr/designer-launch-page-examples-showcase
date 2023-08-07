@@ -47,7 +47,7 @@ button {
   position: absolute;
 }
 .inner-wrapper::before {
-  top: 86px;
+  top: 4%;
   right: -38px;
   width: 200px;
   height: 210px;
